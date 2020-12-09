@@ -3,8 +3,8 @@
 Project Governance
 ==================
 
-Technical Steering Committee (TSC)
-----------------------------------
+Technical Steering Committee
+----------------------------
 Since the beginning of ROS, the project has been overseen and prioritized primarily by one organization, first Willow Garage and now Open Robotics.
 That approach has worked well enough, as evidenced by the widespread adoption of ROS around the world.
 
