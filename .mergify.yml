@@ -1,0 +1,20 @@
+pull_request_rules:
+  - name: automatic backport of common pages
+    conditions:
+      - "files=Governance|Contact|Marketing|Releases|index"
+    actions:
+      backport:
+        branches:
+          - foxy
+          - eloquent
+          - dashing
+          
+  - name: backport at reviewers discretion 
+    conditions:
+      - "label=backport-all"
+    actions:
+      backport:
+        branches:
+          - foxy
+          - eloquent
+          - dashing
