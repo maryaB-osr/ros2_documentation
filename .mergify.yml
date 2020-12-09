@@ -1,7 +1,7 @@
 pull_request_rules:
   - name: automatic backport of common pages
     conditions:
-      - "files=Governance|Contact|Marketing|Releases|index"
+      - "files=Governance"
     actions:
       backport:
         branches:
