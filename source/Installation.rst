@@ -21,7 +21,7 @@ Installation
    Installation/Prerelease-Testing
    Installation/DDS-Implementations
 
-ROS 2 Installation Options
+ROS 2 installation options
 --------------------------
 
 Multiple distributions of ROS 2 are supported at a time.
