@@ -22,6 +22,8 @@ ROS 2 Documentation
    Marketing
    Related-Projects
 
+Welcome!
+
 The Robot Operating System (ROS) is a set of software libraries and tools for building robot applications.
 From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
 And it's all open source.
@@ -29,7 +31,7 @@ And it's all open source.
 Since ROS was started in 2007, a lot has changed in the robotics and ROS community.
 The goal of the ROS 2 project is to adapt to these changes, leveraging what is great about ROS 1 and improving what isn’t.
 
-Here you will find the official documentation on **ROS 2**, the newest version of ROS.
+Here you will find the official documentation on *S*ROS 2**, the newest version of ROS.
 
 If you're looking for documentation on ROS 1 (i.e., ROS as it has existed for several years, and what you might be using right now),
 check the `ROS wiki <https://wiki.ros.org>`__.
